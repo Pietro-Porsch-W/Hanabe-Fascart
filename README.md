@@ -6,6 +6,8 @@ welp, i like games, AI and creating things.
 
 current languages: Java
 
+learning java with Danki Code
+
 i speak portuguese and english, not perfect but it get the job done
 <!---
 Hanabe-Fascart/Hanabe-Fascart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
