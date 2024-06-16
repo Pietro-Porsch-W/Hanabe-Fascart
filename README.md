@@ -1,15 +1,8 @@
-yo, i am a brazilian trying to learn programming to have a great life, or a sad life
+Hello, my name is Pietro, i'm in college and working with SQL on my daily basis.
 
-i am currently learning Java and i want to get in python or C.
+Learned a bit of basic python and macro with python, with pointers in C and objects with java,
+worked in a few projects with arduino making cars, moisture detecters and others simple projects!
 
-welp, i like games, AI and creating things.
+Working now with Progress 12 in a daily basis, fixing bugs and working as support!
 
-current languages: Java
-
-learning java with Danki Code
-
-i speak portuguese and english, not perfect but it get the job done
-<!---
-Hanabe-Fascart/Hanabe-Fascart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Fluent in portuguese Brazil and almost fluent in english, just lacks a little of utterance.
